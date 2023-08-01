@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: sitschedule.SITSchedule
+Class-Path: jsoup-1.15.3.jar lombok-1.18.24.jar poi-5.2.2.jar commons-codec-1.15.jar commons-collections4-4.4.jar commons-math3-3.6.1.jar commons-io-2.11.0.jar SparseBitSet-1.2.jar log4j-api-2.17.2.jar poi-ooxml-5.2.2.jar poi-ooxml-lite-5.2.2.jar xmlbeans-5.0.3.jar commons-compress-1.21.jar curvesapi-1.07.jar
+
